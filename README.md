@@ -6,7 +6,7 @@ A mini data analysis project exploring the Titanic passenger dataset (`train.csv
 
 ```
 .
-├── project_2.ipynb   # Main notebook
+├── notebook.ipynb   # Main notebook
 ├── train.csv          # Titanic dataset (must be placed in the same directory)
 └── README.md
 ```
@@ -59,7 +59,7 @@ The notebook expects a `train.csv` file (the classic Titanic dataset with column
 
 ## How to Run
 
-1. Open `project_2.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `notebook.ipynb` in [Google Colab](https://colab.research.google.com/).
 2. Upload `train.csv` to the Colab session (Files panel → Upload), or mount Google Drive and update the file path in the `pd.read_csv()` call.
 3. Run all cells in order (Runtime → Run all).
 
